@@ -1,5 +1,7 @@
 # sample-vue-project
 
+<https://vuejs.org/guide/quick-start.html#with-build-tools>
+
 This template should help get you started developing with Vue 3 in Vite.
 
 ## Recommended IDE Setup
